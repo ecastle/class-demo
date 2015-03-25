@@ -2,3 +2,4 @@ This is some information about the project.
 
 It's slightly different than the README.
 
+This file was created by ecastle
